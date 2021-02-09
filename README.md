@@ -10,6 +10,7 @@ Thanks to your New Year's Resolution or maybe your significant other wants to st
 
 ## https://whispering-fjord-90565.herokuapp.com/
 
-###<img src="./public/img/FitnessTracker.png">
+<img src="./public/img/FitnessTracker.png">
+<img src="./public/img/WorkoutDashboard.png">
 
 # Enjoy :running:
